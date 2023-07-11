@@ -1,0 +1,6 @@
+{
+"scripts": {
+    "oprendszer": "<span id='os-txt'></span>",
+    "bogeszomotor": "cd scripts; yarn get-report-message"
+           }
+}
